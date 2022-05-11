@@ -3,6 +3,8 @@ DATA602 Final Project
 
 Student: Hala Algrain
 
+[Presentation Video](https://youtu.be/1DGCAwDgovc)
+
 ## Overview
 
 The Readmissions Reduction Program (HRRP) uses the Excess Readmission Ratio (ERR) to assess a hospital's performance for 6 conditions: pneumonia, acute myocardial infarction, heart failure, chronic obstructive pulmondary disease, coronary artery bypass graft, and total knee and hip arthroplastry.
