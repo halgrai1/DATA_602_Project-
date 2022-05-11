@@ -29,3 +29,5 @@ The best model was logistic regression. We admit this dataset is small. Further 
 The final model is able to predict estimated readmission ratios for pneumonia with 67% accuracy on a test dataset. There was a modest benefit to adding Principal Component Analysis to preprocess the data.
 
 ## Potential Next Steps and Follow-ups
+To improve upon this preliminary analysis: (1)remove medicaid expansion as a feature and include hospitals in the remaining states, (2) use random forests for feature engineering, (3) conduct a panel analysis with more years.
+
